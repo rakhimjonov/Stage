@@ -1,0 +1,2 @@
+# Stage
+First stage JS
